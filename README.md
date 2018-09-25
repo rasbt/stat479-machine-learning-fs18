@@ -15,7 +15,7 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 
 - [Lecture 3](03_python): Using Python, Anaconda, IPython, Jupyter Notebooks
 - [Lecture 4](04_scipython): Scientific Computing with NumPy, SciPy, and Matplotlib
-- Data Preprocessing and Machine Learning with Scikit-Learn
+- [Lecture 5](05_sklearn): Data Preprocessing and Machine Learning with Scikit-Learn
 
 **Part III: Tree-Based Methods**
 

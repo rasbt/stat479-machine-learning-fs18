@@ -19,7 +19,7 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 
 **Part III: Tree-Based Methods**
 
-- Decision Trees
+- [Lecture 6](06_trees): Decision Trees
 - Ensemble Methods
 
 **Part IV: Evaluation**

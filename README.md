@@ -20,12 +20,14 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 **Part III: Tree-Based Methods**
 
 - [Lecture 6](06_trees): Decision Trees
-- [Lecture 7](07_ensembles):Ensemble Methods
+- [Lecture 7](07_ensembles): Ensemble Methods
 
 **Part IV: Evaluation**
 
-- Model Evaluation and Performance Metrics
+- [Lecture 8](08_eval-intro): Model Evaluation 1: Introduction to Overfitting and Underfitting
+- Model Evaluation and Uncertainty Estimates
 - Model Selection and Cross-Validation
+- Model Evaluation and Performance Metrics
 
 **Part V: Dimensionality Reduction**
 

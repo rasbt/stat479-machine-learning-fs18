@@ -27,7 +27,8 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - [Lecture 8](08_eval-intro): Model Evaluation 1: Introduction to Overfitting and Underfitting
 - Model Evaluation and Uncertainty Estimates
 - Model Selection and Cross-Validation
-- Model Evaluation and Performance Metrics
+- Model Comparisons with Statistical Tests
+- Performance Metrics
 
 **Part V: Dimensionality Reduction**
 

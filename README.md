@@ -28,7 +28,7 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - [Lecture 9](09_eval-ci): Model Evaluation 2: Uncertainty Estimates and Resampling
 - [Lecture 10](10_eval-cv): Model Evaluation 3: Model Selection and Cross-Validation
 - [Lecture 11](11_eval-algo): Model Evaluation 4: Algorithm Selection and Statistical Tests
-- Performance Metrics
+- [Lecture 12](12_eval-metrics): Model Evaluation 5: Performance Metrics
 
 **Part V: Dimensionality Reduction**
 

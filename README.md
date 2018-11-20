@@ -32,7 +32,7 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 
 **Part V: Dimensionality Reduction**
 
-- [Lecture 13](13_feate-sele): Feature Selection
+- [Lecture 13](13_feat-sele): Feature Selection
 - Feature Extraction
 
 **Part VI: Bayesian Learning** 

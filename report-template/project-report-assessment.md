@@ -37,7 +37,7 @@
 - Are the figures clear and have no missing labels?
 - Do the figure captions have sufficient information to understand the figure?
 - Is each figure referenced in the text?
-- Is the discussion critical and potential weaknesses/shortcomings are discussed as well? 
+- Is the discussion critical/honest, and are potential weaknesses/shortcomings are discussed as well? 
 
 ### Conclusions: 15 pts
 

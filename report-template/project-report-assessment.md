@@ -22,7 +22,7 @@
 
 ### Proposed Method: 25 pts
 
-- Are there any missing variable descriptions?
+- Are there any missing descriptions of symbols used in mathematical notations (if applicable)?
 - Are the main algorithms described well enough so that they can be implemented by a knowledgeable reader?
 
 ### Experiments: 25 pts

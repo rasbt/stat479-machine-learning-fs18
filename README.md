@@ -49,7 +49,7 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - Clustering
 
 **The following topics will be covered at the beginning of the
-Deep Learning class next Spring.** [Tentative Outline of the DL course](dl-course.md)
+Deep Learning class next Spring.** [Tentative outline of the DL course](./other/dl-course-info.md).
 
 **Part VIII: Introduction to Artificial Neural Networks**
 

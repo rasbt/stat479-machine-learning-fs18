@@ -35,6 +35,8 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - [Lecture 13](13_feat-sele): Feature Selection
 - [Lecture 14](14_feat-extract): Feature Extraction
 
+**Due to time constraints, the following topics could unfortunately not be covered:**
+
 **Part VI: Bayesian Learning** 
 
 - Bayes Classifiers
@@ -46,8 +48,8 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - Regression Analysis
 - Clustering
 
-The following topics will be covered in the beginning of the
-Deep Learning class next Spring.
+**The following topics will be covered at the beginning of the
+Deep Learning class next Spring.** [Tentative Outline of the DL course](dl-course.md)
 
 **Part VIII: Introduction to Artificial Neural Networks**
 

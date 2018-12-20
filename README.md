@@ -60,3 +60,12 @@ Deep Learning class next Spring.** [Tentative outline of the DL course](./other/
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+<br>
+<br>
+<br>
+
+Teaching this class was a pleasure, and I am especially happy about how awesome the class projects turned out. Listed below are the winners of the three award categories as determined by ~210 votes. Congratulations! 
+
+![](other/stat479-fs18-awards.jpg)
